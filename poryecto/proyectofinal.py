@@ -66,7 +66,7 @@ class Vuelo(Transporte):
             return True
         return False
 
-
+# VG22009 Jorge Alberto Veliz Granados, yo aporte en la interfaz grafica
 # Ventana principal del sistema de boletos
 class InterfazVentaBoletos:
     def __init__(self, aerolineas, usuario):
